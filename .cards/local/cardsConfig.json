@@ -3,6 +3,7 @@
     "cardKeyPrefix": "ext",
     "name": "Ext",
     "description": "",
+    "version": "1.0.0",
     "modules": [
         {
             "name": "core",
