@@ -1,7 +1,7 @@
 {
     "name": "ext/cardTypes/Note",
     "displayName": "",
-    "workflow": "core/workflows/flow",
+    "workflow": "ext/workflows/own",
     "customFields": [
         {
             "name": "core/fieldTypes/priority",

@@ -1,0 +1,1 @@
+{"timestamp":"2026-06-22T08:09:03.933Z","operation":"resource_update","target":"ext/cardTypes/Note","parameters":{"type":"cardTypes","operation":{"name":"change","target":"core/workflows/flow","to":"ext/workflows/own","mappingTable":{"stateMapping":{"Draft":"Draft","Approved":"Approved","Deprecated":"Deprecated"}}},"key":"workflow"}}
