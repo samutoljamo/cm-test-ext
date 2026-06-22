@@ -1,0 +1,1 @@
+{"timestamp":"2026-06-22T08:26:01.836Z","operation":"resource_update","target":"ext/cardTypes/Note","parameters":{"type":"cardTypes","operation":{"name":"add","target":{"name":"util/fieldTypes/owner","isCalculated":false}},"key":"customFields"}}

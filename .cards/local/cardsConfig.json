@@ -10,6 +10,12 @@
             "location": "https://github.com/samutoljamo/cm-test-core",
             "private": false,
             "version": "1.0.0"
+        },
+        {
+            "name": "util",
+            "location": "https://github.com/samutoljamo/cm-test-util",
+            "private": false,
+            "version": "1.0.0"
         }
     ],
     "hubs": [

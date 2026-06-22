@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 5,
+    "cardKeyPrefix": "util",
+    "name": "Util",
+    "description": "",
+    "version": "1.0.0",
+    "modules": [],
+    "hubs": [
+        {
+            "location": "https://raw.githubusercontent.com/CyberismoCom/cyberismo/main/tools/assets/src/hub/"
+        }
+    ]
+}
