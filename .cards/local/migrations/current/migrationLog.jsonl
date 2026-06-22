@@ -1,0 +1,2 @@
+{"timestamp":"2026-06-22T08:08:09.742Z","operation":"resource_update","target":"ext/cardTypes/Note","parameters":{"type":"cardTypes","operation":{"name":"add","target":{"name":"core/fieldTypes/priority","isCalculated":false}},"key":"customFields"}}
+{"timestamp":"2026-06-22T08:08:11.981Z","operation":"resource_update","target":"ext/cardTypes/Note","parameters":{"type":"cardTypes","operation":{"name":"add","target":{"name":"ext/fieldTypes/label","isCalculated":false}},"key":"customFields"}}

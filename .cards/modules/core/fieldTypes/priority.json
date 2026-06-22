@@ -1,0 +1,16 @@
+{
+    "name": "core/fieldTypes/priority",
+    "displayName": "",
+    "dataType": "enum",
+    "enumValues": [
+        {
+            "enumValue": "low"
+        },
+        {
+            "enumValue": "medium"
+        },
+        {
+            "enumValue": "high"
+        }
+    ]
+}

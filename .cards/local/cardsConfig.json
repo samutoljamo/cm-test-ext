@@ -1,0 +1,19 @@
+{
+    "schemaVersion": 5,
+    "cardKeyPrefix": "ext",
+    "name": "Ext",
+    "description": "",
+    "modules": [
+        {
+            "name": "core",
+            "location": "https://github.com/samutoljamo/cm-test-core",
+            "private": false,
+            "version": "1.0.0"
+        }
+    ],
+    "hubs": [
+        {
+            "location": "https://raw.githubusercontent.com/CyberismoCom/cyberismo/main/tools/assets/src/hub/"
+        }
+    ]
+}

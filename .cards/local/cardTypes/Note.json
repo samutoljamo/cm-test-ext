@@ -1,0 +1,17 @@
+{
+    "name": "ext/cardTypes/Note",
+    "displayName": "",
+    "workflow": "core/workflows/flow",
+    "customFields": [
+        {
+            "name": "core/fieldTypes/priority",
+            "isCalculated": false
+        },
+        {
+            "name": "ext/fieldTypes/label",
+            "isCalculated": false
+        }
+    ],
+    "alwaysVisibleFields": [],
+    "optionallyVisibleFields": []
+}
